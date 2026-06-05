@@ -10,6 +10,8 @@ local_protocol = "http"
 
 [vars]
 CUSTOM_DOMAIN = "djwl.top"
+MODE = "production"
+TARGET_UPSTREAM = ""
 
 [env.dev.vars]
 MODE = "debug"
