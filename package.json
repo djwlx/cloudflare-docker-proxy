@@ -16,5 +16,6 @@
     "dev": "wrangler dev --env dev"
   },
   "license": "MIT",
+  "packageManager": "pnpm@8.15.9",
   "main": "src/index.js"
 }
